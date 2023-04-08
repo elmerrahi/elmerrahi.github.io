@@ -5,11 +5,11 @@
 :root {
   /* colors */
 
-  --clr-dark: 196 100% 4%;
-  --clr-light: 0 0% 95%;
+  --clr-dark: 31 14% 19%;
+  --clr-light: 196 12% 96%;
   --clr-white: 0 0% 100%;
-  --clr-prime: 182 64% 54%;
-  --clr-sec: 168 80% 51%;
+  --clr-prime: 199 87% 52%;
+  --clr-sec: 168, 100%, 50%;
 
   /* font-sizes */
   --fs-900: clamp(5rem, 8vw + 1rem, 9.375rem);
@@ -373,7 +373,7 @@ p {
 }
 .button-indicators * {
   cursor: pointer;
-  color: var(--clr-prime);
+  color: white;
   padding: 1rem 1rem;
 }
 
