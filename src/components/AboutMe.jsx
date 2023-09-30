@@ -55,7 +55,7 @@ const AboutMe = ({ name }) => {
             <motion.div className="contentContainer" variants={staggerVariants}>
               {/* Display greeting and job title with animation */}
               <motion.h4 variants={paragraphVariants}>Nice to meet you! 👋🏻</motion.h4>
-              <motion.h5 variants={paragraphVariants}>I'm a Software Engineer at Amazon.</motion.h5>
+              <motion.h5 variants={paragraphVariants}>I'm a Data Analyst/Scientist.</motion.h5>
 
               {/* Display content description with animation */}
               <motion.div
@@ -66,24 +66,16 @@ const AboutMe = ({ name }) => {
               >
                 {/* Paragraphs with animation */}
                 <motion.p variants={paragraphVariants}>
-                  Today, I find myself knee-deep in an exhilarating chapter of my journey as a degree apprentice at the
-                  tech titan, <span style={{ color: "var(--hl-color)" }}> Amazon</span>. My playground? The captivating
-                  universe of <span style={{ color: "var(--hl-color)" }}> Alexa</span>.
+                  Hello! I am a dedicated Data Science Adventurer with a solid background in Industrial Engineering. 
+                  Fueled by a passion for data analytics and machine learning, I am devoted to excellence in these dynamic fields. I believe in the transformative power of data and machine learning algorithms, leveraging them to create engaging and impactful visual insights that foster informed decision-making.
                 </motion.p>
                 <br />
                 <motion.p variants={paragraphVariants}>
-                  Here, I don my <span style={{ color: "var(--hl-color)" }}> problem-solving </span>
-                  cape and dive headfirst into real-world challenges, all while relentlessly pursuing a{" "}
-                  <span style={{ color: "var(--hl-color)" }}> Digital and Technology Solutions</span> degree from the
-                  University of Roehampton. So here I am, juggling bits of binary and real-life conundrums, all while
-                  crafting my own success story.
+                  Eager to explore innovative techniques and tools, I transform raw data into clear, compelling visualizations, enabling data-driven decisions. Excited by the possibilities of machine learning, I continuously seek growth and learning opportunities in the realms of data science and machine learning. 
                 </motion.p>
                 <br />
                 <motion.p variants={paragraphVariants}>
-                  Life is a kaleidoscope of experiences, far beyond the confines of work. When code isn't my focus, I'm
-                  conquering cycling routes, feeling the wind on spirited runs, and fueling my love for Formula One.
-                  Amid serene moments, I transform into a film aficionado, seeking films that kindle inspiration and
-                  provoke thought.
+                  With an adventurous spirit and insatiable curiosity, I look forward to the challenges and contributions that lie ahead in my journey of continuous learning and innovation in data science and machine learning.
                 </motion.p>
               </motion.div>
 
