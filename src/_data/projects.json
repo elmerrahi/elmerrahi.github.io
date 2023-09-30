@@ -1,12 +1,12 @@
 [
   {
-    "title": "Routes",
+    "title": "Supply chain",
     "description": "Plan Safe Routes",
     "image": "/projectImages/bike.png",
     "image2": "/projectImages/cyclingfamily.jpeg",
     "image3": "/projectImages/routes3.png",
     "body": "So, picture this – me and the gang whipped up this awesome thing during my coding bootcamp. It's like the alpha version, you know? And guess what? I totally owned the whole route thingy!\nThe big idea? Keep those kiddos safe while they're out cycling. Like superhero parents and guardians. 🚴‍♀️💨\nI brought in some Leaflet.js magic and TomTom's cool Routing/Reverse Geolocation APIs. What does that mean? Well, hold tight – we've got this super interactive map that's easy on the eyes. You can basically draw out a route, all fancy, while considering stuff like traffic, bike lanes, and how steep the hills are. It's like plotting an adventure – totally kid-safe and fun!",
-    "technologies": ["Leaflet", "jQuery", "Bootstrap", "HTML", "CSS"],
+    "technologies": ["SQL", "PYTHON", "R"],
     "github": "https://github.com/mdyeates/bike-buddy",
     "deployed": "https://norrinradd8.github.io/bike_buddy/",
     "bgcolor": "var(--hl2-color)",
